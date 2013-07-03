@@ -1,0 +1,12 @@
+{
+    "name": "claymm/verot-upload",
+    "homepage": "http://www.verot.net/php_class_upload.htm",
+    "description": "This PHP script uploads by Verot",
+    "license": "GPL v2",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["Upload.php"]
+    }
+}
