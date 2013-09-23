@@ -3,8 +3,8 @@
 // | class.upload.zh_TW.php                                                 |
 // +------------------------------------------------------------------------+
 // | Copyright (c) Yang Chih-Wen 2009. All rights reserved.                 |
-// | Version       0.25                                                     |
-// | Last modified 03/04/2009                                               |
+// | Version       0.28                                                     |
+// | Last modified 15/08/2009                                               |
 // | Email         chihwen.yang@gmail.com                                   |
 // | Web           http://www.doubleservice.com/                            |
 // +------------------------------------------------------------------------+
@@ -30,7 +30,7 @@
 /**
  * Class upload Traditional Chinese translation
  *
- * @version   0.25
+ * @version   0.28
  * @author    Yang Chih-Wen (chihwen.yang@gmail.com)
  * @license   http://opensource.org/licenses/gpl-license.php GNU Public License
  * @copyright Yang Chih-Wen
@@ -46,6 +46,9 @@
     $translation['uploaded_too_big_html']       = '檔案上傳出錯 (上傳的檔案超過了 HTML 表單中 MAX_FILE_SIZE 指定的大小)。';
     $translation['uploaded_partial']            = '檔案上傳出錯 (只有部份的檔案被上傳)。';
     $translation['uploaded_missing']            = '檔案上傳出錯 (沒有檔案被上傳)。';
+    $translation['uploaded_no_tmp_dir']         = '檔案上傳出錯 (找不到暫存目錄)。';
+    $translation['uploaded_cant_write']         = '檔案上傳出錯 (檔案寫入失敗)。';
+    $translation['uploaded_err_extension']      = '檔案上傳出錯 (檔案上傳被 extension 中斷)。';
     $translation['uploaded_unknown']            = '檔案上傳出錯 (未知的錯誤)。';
     $translation['try_again']                   = '檔案上傳出錯，請重試。';
     $translation['file_too_big']                = '檔案太大了。';
