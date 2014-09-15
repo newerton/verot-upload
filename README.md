@@ -6,7 +6,6 @@ This package is simply a copy of [Verot's PHP Upload class](http://www.verot.net
 ### Usefull Links
 
 * [class.upload.php page](http://www.verot.net/php_class_upload.htm)
-* [class.upload.php downloads](http://www.verot.net/php_class_upload_download.htm)
 * [class.upload.php documentation](http://www.verot.net/php_class_upload_docs.htm)
 * [class.upload.php samples, a files uploading and images manipulation PHP class](http://www.verot.net/php_class_upload_samples.htm)
 * [class.upload.php license](http://www.verot.net/php_class_upload_gpl.htm)
